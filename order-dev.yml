@@ -9,4 +9,7 @@ spring:
   jpa:
     show-sql: true
 env:
-  dev1
+  dev
+girl:
+  name: "lili"
+  age: 17
